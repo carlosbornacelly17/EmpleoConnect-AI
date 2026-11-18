@@ -1,0 +1,167 @@
+{
+  "_nota": "Cargos ordenados de mayor a menor afinidad con la categoria. cobertura: alta, media, baja o ninguna. Si cobertura es ninguna, el agente debe decir que no hay un perfil claro en la base.",
+  "INFORMATION-TECHNOLOGY": {
+    "cobertura": "alta",
+    "cargos": [
+      "perfil_desarrollador_software",
+      "perfil_desarrollador_web",
+      "perfil_analista_datos",
+      "perfil_cientifico_datos",
+      "perfil_administrador_bases_datos",
+      "perfil_administrador_redes_tic",
+      "perfil_arquitecto_sistemas_tic",
+      "perfil_ingeniero_sistemas_nube",
+      "perfil_gestor_incidentes_ciberseguridad",
+      "perfil_tecnico_soporte_tic"
+    ]
+  },
+  "ENGINEERING": {
+    "cobertura": "alta",
+    "cargos": [
+      "perfil_ingeniero_electrico",
+      "perfil_ingeniero_electronico",
+      "perfil_ingeniero_tecnico_electronica",
+      "perfil_ingeniero_telecomunicaciones",
+      "perfil_ingeniero_automatizacion",
+      "perfil_tecnico_automatizacion_instrumentacion"
+    ]
+  },
+  "ACCOUNTANT": {
+    "cobertura": "alta",
+    "cargos": [
+      "perfil_contable",
+      "perfil_analista_financiero",
+      "perfil_asistente_administrativo"
+    ]
+  },
+  "FINANCE": {
+    "cobertura": "alta",
+    "cargos": [
+      "perfil_analista_financiero",
+      "perfil_contable"
+    ]
+  },
+  "BANKING": {
+    "cobertura": "media",
+    "cargos": [
+      "perfil_analista_financiero",
+      "perfil_contable",
+      "perfil_asistente_administrativo"
+    ]
+  },
+  "HR": {
+    "cobertura": "alta",
+    "cargos": [
+      "perfil_responsable_recursos_humanos",
+      "perfil_asistente_administrativo"
+    ]
+  },
+  "BPO": {
+    "cobertura": "media",
+    "cargos": [
+      "perfil_servicio_cliente_asesor",
+      "perfil_servicio_cliente_call_center",
+      "perfil_servicio_cliente_recepcionista",
+      "perfil_asistente_administrativo",
+      "perfil_tecnico_soporte_tic"
+    ]
+  },
+  "BUSINESS-DEVELOPMENT": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_ventas_asesor_comercial",
+      "perfil_analista_financiero",
+      "perfil_analista_datos",
+      "perfil_asistente_administrativo"
+    ]
+  },
+  "CONSULTANT": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_arquitecto_sistemas_tic",
+      "perfil_analista_datos",
+      "perfil_analista_financiero"
+    ]
+  },
+  "SALES": {
+    "cobertura": "media",
+    "cargos": [
+      "perfil_ventas_asesor_comercial",
+      "perfil_ventas_vendedor_tienda",
+      "perfil_ventas_vendedor_tecnico",
+      "perfil_ventas_mercaderista",
+      "perfil_asistente_administrativo",
+      "perfil_analista_datos"
+    ]
+  },
+  "PUBLIC-RELATIONS": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_asistente_administrativo"
+    ]
+  },
+  "DIGITAL-MEDIA": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_desarrollador_web",
+      "perfil_analista_datos"
+    ]
+  },
+  "DESIGNER": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_desarrollador_web"
+    ]
+  },
+  "CONSTRUCTION": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_ingeniero_electrico"
+    ]
+  },
+  "AUTOMOBILE": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_ingeniero_automatizacion",
+      "perfil_tecnico_automatizacion_instrumentacion"
+    ]
+  },
+  "AVIATION": {
+    "cobertura": "baja",
+    "cargos": [
+      "perfil_ingeniero_electronico"
+    ]
+  },
+  "HEALTHCARE": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "ADVOCATE": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "AGRICULTURE": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "APPAREL": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "ARTS": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "CHEF": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "FITNESS": {
+    "cobertura": "ninguna",
+    "cargos": []
+  },
+  "TEACHER": {
+    "cobertura": "ninguna",
+    "cargos": []
+  }
+}

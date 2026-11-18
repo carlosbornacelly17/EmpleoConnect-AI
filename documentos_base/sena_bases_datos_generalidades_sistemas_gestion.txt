@@ -1,0 +1,9 @@
+Titulo: Curso complementario SENA: Bases de datos, generalidades y sistemas de gestión
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/bases-de-datos-generalidades-y-sistemas-de-gestion?programId=73885&modality=V
+
+Curso SENA Bases de datos, generalidades y sistemas de gestión: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 40 horas. Su competencia es alimentar una base de datos según los procedimientos establecidos y las políticas institucionales. Sirve como primer paso para quien quiere trabajar con datos o programar sistemas de información.
+
+Curso SENA Bases de datos, generalidades y sistemas de gestión: contenido y requisitos.
+Tiene cuatro unidades: introducción a las bases de datos y a los sistemas de gestión de bases de datos, bases de datos relacionales, normalización y modelo entidad-relación, y diseño de bases de datos relacionales. Se necesita manejar herramientas informáticas y de comunicación (correo, chats, procesadores de texto, presentaciones, internet) para la formación virtual.

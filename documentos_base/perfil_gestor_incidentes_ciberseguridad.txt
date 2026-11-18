@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Gestor de incidentes de ciberseguridad (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2529.7 "gestor para incidentes de seguridad informática (ciberseguridad)"; y CNO 2025 (SENA), ocupación 2172 "Administradores de servicios de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/0ce5a9f4-e00a-4bbe-b255-3c63407167a4
+
+Gestor de incidentes de ciberseguridad: qué hace.
+Supervisa y evalúa el estado de los sistemas de ciberseguridad, y analiza, evalúa y mitiga el impacto de los incidentes. Identifica a los agentes malintencionados e informa las causas de fondo. Siguiendo el plan de respuesta a incidentes de la organización, restablece sistemas y procesos, recopila pruebas y documenta lo que hizo. En la CNO no hay una ocupación propia: el cargo aparece como administrador de seguridad informática, analista de seguridad TI, oficial de seguridad TI, consultor de seguridad informática o gestor de seguridad de la información.
+
+Gestor de incidentes de ciberseguridad: funciones principales.
+Según la CNO, implementa y controla el sistema de seguridad de la información según estándares, gestiona los riesgos de las soluciones de TIC, administra la infraestructura tecnológica y de red, y supervisa a las personas a cargo. Según ESCO, además gestiona incidentes de ciberseguridad y elabora informes de incidentes.
+
+Gestor de incidentes de ciberseguridad: habilidades técnicas esenciales.
+ESCO pide conocimientos de ciberseguridad, seguridad de las TIC, normas y legislación de seguridad, amenazas y vectores de ataque, contramedidas frente a ataques, hacking ético, riesgos de seguridad de la red, gestión de riesgos, protección de datos personales (RGPD), registro de incidentes y sistemas operativos. Entre las habilidades están gestionar incidentes de ciberseguridad, elaborar informes de incidentes, proteger dispositivos TIC, recabar datos para ciberdefensa, asesorar en TIC y comunicarse con las partes interesadas.
+
+Gestor de incidentes de ciberseguridad: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la estrategia de seguridad de la información, la seguridad y cumplimiento en la nube, la ingeniería de seguridad, las amenazas de seguridad de aplicaciones web, el cifrado, Python, C++, la gestión de proyectos y el Internet de las Cosas.
+
+Gestor de incidentes de ciberseguridad: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, el pensamiento crítico, la evaluación y control de actividades, la resolución de problemas complejos y el criterio y toma de decisiones. Los conocimientos que pide son ingeniería y tecnología, un idioma extranjero, manejo de las TIC, servicio al cliente, y computadoras y electrónica.
+
+Gestor de incidentes de ciberseguridad: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Tecnólogo SENA en Gestión de redes de datos, que incluye administrar hardware y software de seguridad de la red. Entre las certificaciones útiles están la Certificación Cisco CCST Cybersecurity y, para reforzar la parte de redes, la Certificación Cisco CCST Networking.

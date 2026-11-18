@@ -1,0 +1,14 @@
+streamlit
+bcrypt
+pyjwt
+PyMuPDF
+pymupdf4llm
+python-docx
+python-dotenv
+google-genai
+tokenizers
+onnxruntime
+numpy
+requests
+beautifulsoup4
+pandas

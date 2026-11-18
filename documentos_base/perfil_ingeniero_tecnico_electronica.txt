@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero técnico en electrónica (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 3114.1 "ingeniero técnico en electrónica"; y CNO 2025 (SENA), ocupación 2242 "Técnicos en electrónica"
+Link: http://data.europa.eu/esco/occupation/27811419-407f-4868-a388-2f7df7aafd91
+
+Ingeniero técnico en electrónica: qué hace.
+Colabora con los ingenieros electrónicos en el desarrollo de equipos y dispositivos, y es responsable de construirlos, ensayarlos y mantenerlos. En la CNO es el cargo de apoyo al diseño, la fabricación, el montaje, la prueba, la operación y la reparación de equipos electrónicos, y aparece como técnico en electrónica, tecnólogo en electrónica, técnico de diseño electrónico, técnico de servicio electrónico, técnico de manufactura electrónica o supervisor de pruebas en electrónica.
+
+Ingeniero técnico en electrónica: funciones principales.
+Según la CNO, apoya la investigación, el desarrollo y las pruebas de prototipos, ensambla prototipos y dispositivos, ejecuta protocolos de prueba, realiza pruebas funcionales y ajustes, alista planos de circuitos, diseña tarjetas de circuito impreso, repara tarjetas con técnicas de diagnóstico, opera equipos según los manuales, brinda soporte técnico y posventa, y verifica el cumplimiento del proceso de producción.
+
+Ingeniero técnico en electrónica: habilidades técnicas esenciales.
+ESCO pide conocimientos de electrónica y sus tipos, componentes electrónicos, circuitos integrados, placas de circuitos impresos, normas de equipos electrónicos y procedimientos de prueba. Entre las habilidades están interpretar diagramas de circuitos, planos de montaje y especificaciones de diseño, soldar y unir componentes, montar y verificar unidades electrónicas, configurar equipos, usar equipos de pruebas, realizar pruebas de rendimiento, inspeccionar la calidad, registrar resultados y preparar prototipos.
+
+Ingeniero técnico en electrónica: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la microelectrónica, el firmware, los sensores, la electrónica de potencia y de consumo, la ingeniería eléctrica y mecánica, los componentes de robótica, la tecnología de transmisión y los sistemas de gestión de baterías.
+
+Ingeniero técnico en electrónica: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico, la evaluación y control de actividades y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, servicios de oficina y administrativos, un idioma extranjero, servicio al cliente, y computadoras y electrónica.
+
+Ingeniero técnico en electrónica: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse hay el Curso SENA Electrónica: magnitudes, leyes y aplicaciones, el Curso SENA Implementación de circuitos electrónicos digitales y el Curso SENA Diseño de productos electrónicos con microcontroladores.

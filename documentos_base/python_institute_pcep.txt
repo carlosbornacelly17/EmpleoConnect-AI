@@ -1,0 +1,12 @@
+Titulo: Certificación Python Institute PCEP (PCEP-30-02): qué es y qué cubre (2026)
+Fuente: Python Institute, página oficial de la certificación PCEP Certified Entry-Level Python Programmer, consultado en octubre de 2026
+Link: https://pythoninstitute.org/pcep
+
+Certificación Python Institute PCEP: qué es.
+El PCEP (Certified Entry-Level Python Programmer) es la certificación de nivel básico del Python Institute. Indica que la persona conoce conceptos universales de programación como tipos de datos, contenedores, funciones, condiciones y bucles, y la sintaxis, la semántica y el entorno de ejecución de Python. La versión vigente del examen es PCEP-30-02, con 30 preguntas y 40 minutos más 5 minutos de tutorial y acuerdo de confidencialidad.
+
+Certificación Python Institute PCEP: ruta de certificaciones.
+Es la primera certificación de la ruta de programación de propósito general del Python Institute. Las siguientes son PCAP (Certified Associate in Python Programming) y PCPP1 (Certified Professional in Python Programming 1).
+
+Certificación Python Institute PCEP: para qué cargos sirve.
+Es una buena primera certificación para quien aspira a cargos como desarrollador de software, desarrollador web, analista de datos o científico de datos, y complementa cursos del SENA que piden saber Python, como el Curso SENA Análisis exploratorio de datos en Python.

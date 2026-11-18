@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero eléctrico (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2151.1 "ingeniero eléctrico"; y CNO 2025 (SENA), ocupación 2133 "Ingenieros electricistas"
+Link: http://data.europa.eu/esco/occupation/86ca306c-ab99-420a-9e2a-aa73c5c4de22
+
+Ingeniero eléctrico: qué hace.
+Diseña y desarrolla sistemas y equipos eléctricos, componentes, motores y equipos de transmisión de energía. Trabaja desde proyectos a gran escala, como el diseño y mantenimiento de centrales de energía, hasta aplicaciones pequeñas como los electrodomésticos. En la CNO trabaja en empresas de energía eléctrica, comunicaciones, fabricantes de equipos, consultoría e industria, o de forma independiente, y aparece como ingeniero electricista, ingeniero electromecánico, ingeniero de redes eléctricas, ingeniero de diseño de instalaciones eléctricas o ingeniero de mantenimiento eléctrico.
+
+Ingeniero eléctrico: funciones principales.
+Según la CNO, dirige estudios de factibilidad de redes de generación y distribución eléctrica, determina materiales, costos y tiempos, diseña sistemas de protección eléctrica en redes de alta, media y baja tensión, diseña circuitos y equipos, supervisa la instalación, puesta en marcha y mantenimiento, investiga el origen de fallas, prepara contratos y desarrolla manuales de operación y mantenimiento.
+
+Ingeniero eléctrico: habilidades técnicas esenciales.
+ESCO pide conocimientos de principios de la electricidad, ingeniería eléctrica, motores y generadores eléctricos, accionamientos, electromecánica, normativa de equipos eléctricos, redes eléctricas inteligentes, sistemas de iluminación, planos de proyectos, diagramas de instalaciones eléctricas, sistemas de gestión de baterías, tecnologías sostenibles, automatización y robótica. Entre las habilidades están interpretar diagramas de circuitos, diseñar sistemas eléctricos, de energía, electromecánicos y redes inteligentes, diseñar placas de circuitos impresos, mantener motores eléctricos, garantizar la seguridad en sistemas de suministro de energía, hacer simulaciones energéticas y modificar y aprobar diseños técnicos.
+
+Ingeniero eléctrico: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales el diseño de baterías, la teoría de control, el electromagnetismo, la microelectrónica, los circuitos integrados, los equipos de instrumentación, los sistemas de calefacción eléctrica y la producción combinada de calor y electricidad, además de lenguajes como Visual Basic, PHP, Assembly y R.
+
+Ingeniero eléctrico: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la redacción de textos, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, diseño, matemáticas, un idioma extranjero, y computadoras y electrónica.
+
+Ingeniero eléctrico: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para reforzar fundamentos hay el Curso SENA Electrónica: magnitudes, leyes y aplicaciones y el Curso SENA Introducción a sistemas de automatización.

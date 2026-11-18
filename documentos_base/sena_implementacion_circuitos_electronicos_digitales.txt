@@ -1,0 +1,12 @@
+Titulo: Curso complementario SENA: Implementación de circuitos electrónicos digitales
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/implementacion-de-circuitos-electronicos-digitales?programId=158854&modality=V
+
+Curso SENA Implementación de circuitos electrónicos digitales: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 48 horas. Su competencia es diseñar circuitos electrónicos según especificaciones técnicas. Sirve a quien ya tiene bases de electrónica y quiere pasar al diseño de circuitos digitales.
+
+Curso SENA Implementación de circuitos electrónicos digitales: contenido.
+Cubre las normas para el diseño de circuitos (IPC 2221, IEC 60063 y IEC 60617), las condiciones de seguridad y salud en el trabajo, los componentes electrónicos, las variables y parámetros eléctricos, la esquematización y el cálculo de circuitos con sus leyes y teoremas, el software de simulación, la medición de variables eléctricas, la lectura de manuales técnicos (datasheet), la identificación de fallas y la elaboración de informes de resultados.
+
+Curso SENA Implementación de circuitos electrónicos digitales: requisitos de ingreso.
+Se necesita saber manejar equipos de medición para electrónica y tener electrónica básica, además de manejar herramientas informáticas y de comunicación para la formación virtual y cumplir con el trámite de selección definido por el centro de formación.

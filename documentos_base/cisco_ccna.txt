@@ -1,0 +1,15 @@
+Titulo: Certificación Cisco CCNA (200-301): qué es y qué cubre (2026)
+Fuente: Cisco Systems, página de la certificación CCNA y anuncio de la versión 2.0 (mayo de 2026), consultado en octubre de 2026
+Link: https://www.cisco.com/go/ccna
+
+Certificación Cisco CCNA: qué es.
+El CCNA (Cisco Certified Network Associate) es la certificación de nivel asociado de Cisco para redes. Se obtiene aprobando el examen 200-301, que dura 120 minutos y cuesta 300 dólares en Estados Unidos. Es una de las certificaciones de redes más conocidas y sirve para quien quiere trabajar con redes, telecomunicaciones o infraestructura de TI. Un paso previo posible es la Certificación Cisco CCST Networking, de nivel de entrada.
+
+Certificación Cisco CCNA: versión vigente y cambios.
+La versión vigente del examen es la v1.1, que se puede presentar hasta el 2 de febrero de 2027. Cisco anunció en mayo de 2026 la versión 2.0, que reemplaza a la anterior desde el 3 de febrero de 2027. Mantiene el código 200-301, reorganiza el temario de seis a cinco dominios y vuelve a pedir diagnosticar y resolver fallos de red.
+
+Certificación Cisco CCNA: contenido del examen v1.1.
+Cubre seis áreas: fundamentos de redes (20 %), acceso a la red (20 %), conectividad IP (25 %), servicios IP (10 %), fundamentos de seguridad (15 %) y automatización y programabilidad (10 %). Incluye temas como direccionamiento IPv4 e IPv6, VLAN, enrutamiento OSPF, NAT, DHCP, DNS y conceptos de automatización de redes.
+
+Certificación Cisco CCNA: para qué cargos sirve.
+Es una certificación recomendable para quien aspira a cargos como administrador de redes, ingeniero de telecomunicaciones o técnico de infraestructura de redes, y aporta bases de seguridad útiles para el cargo de gestor de incidentes de ciberseguridad.

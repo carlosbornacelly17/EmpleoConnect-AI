@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Técnico en automatización e instrumentación (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 3119.2 "ingeniero técnico de automatización"; y CNO 2025 (SENA), ocupación 2243 "Técnicos en automatización e instrumentación"
+Link: http://data.europa.eu/esco/occupation/5791a961-4717-4230-a245-a4082a675f04
+
+Técnico en automatización e instrumentación: qué hace.
+Colabora con los ingenieros de automatización en el desarrollo de aplicaciones y sistemas de producción automatizados, y fabrica, ensaya, monitorea y mantiene los sistemas controlados por ordenador. En la CNO mantiene, integra, configura, programa e instala instrumentos y sistemas de medición, sistemas robotizados y accionamientos mecánicos, hidráulicos y neumáticos, en empresas de ingeniería, servicios, procesos industriales y manufactura. Aparece como instrumentista industrial, técnico en instrumentación y control, técnico de robótica o tecnólogo en automatización e instrumentación industrial.
+
+Técnico en automatización e instrumentación: funciones principales.
+Según la CNO, localiza la causa raíz de las anomalías de los sistemas y las corrige, instala equipos e instrumentos, ejecuta mantenimiento preventivo, apoya el diseño, programa sistemas de supervisión, control y adquisición de datos, prueba componentes, calibra y ajusta, apoya los manuales de operación y aplica las normas de seguridad industrial y salud ocupacional.
+
+Técnico en automatización e instrumentación: habilidades técnicas esenciales.
+ESCO pide conocimientos de tecnología de la automatización, sistemas de control automático, ingeniería de control, mecatrónica, robótica y sus componentes, microprocesadores, ingeniería eléctrica, mecánica e informática, planos de proyectos y normas de calidad. Entre las habilidades están interpretar diagramas de circuitos y planos de ingeniería, montar y probar sensores, instalar y montar máquinas y unidades mecatrónicas, instalar componentes de automatización, controlar máquinas automáticas, programar sistemas de control, mantener equipos robóticos, inspeccionar la calidad y registrar los resultados de los ensayos.
+
+Técnico en automatización e instrumentación: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales el firmware, los controladores lógicos programables (PLC), los sensores, el software de ingeniería y de fabricación asistida por ordenador, resolver averías de equipos, seguir normas de seguridad para máquinas, adaptar el software al tipo de máquina y redactar informes técnicos.
+
+Técnico en automatización e instrumentación: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico, la evaluación y control de actividades, el trabajo en equipo y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, diseño, mecánica, matemáticas, y computadoras y electrónica.
+
+Técnico en automatización e instrumentación: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse hay el Curso SENA Introducción a sistemas de automatización, el Curso especial SENA Puesta a punto de procesos básicos de automatización industrial asistidos por PLC, el Curso especial SENA Automatización de procesos neumáticos discretos y el Curso SENA Diseño de productos electrónicos con microcontroladores.

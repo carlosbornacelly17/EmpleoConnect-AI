@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Analista de datos (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2511.3 "analista de datos"; y CNO 2025 (SENA), ocupación 2171 "Analistas de sistemas informáticos"
+Link: http://data.europa.eu/esco/occupation/d3edb8f8-3a06-47a0-8fb9-9b212c006aa2
+
+Analista de datos: qué hace.
+Importa, revisa, limpia, valida, modela e interpreta conjuntos de datos según los objetivos de la empresa, y garantiza que las fuentes de datos sean coherentes y fiables. Presenta los resultados en informes, gráficos y paneles de control. En la CNO este cargo se agrupa con los analistas de sistemas informáticos y también aparece como analista de analytics, analista de inteligencia de negocio, analista programador o analista de sistemas de información. Trabaja en empresas de TI, consultoras y áreas de tecnología de organizaciones públicas y privadas.
+
+Analista de datos: funciones principales.
+Según la CNO, establece y evalúa los requisitos de la solución, la prueba, mide los riesgos, sistematiza datos masivos con métodos de analítica, integra datos con técnicas de visualización y atiende los requerimientos de los clientes. También valida aplicaciones siguiendo planes de prueba para asegurar la calidad y la seguridad de los datos, y modela la forma en que se representan los datos de la organización.
+
+Analista de datos: habilidades técnicas esenciales.
+ESCO pide conocimientos de ingeniería de datos, ciencia de datos, estadística, modelos de datos, inteligencia empresarial, extracción de datos y de información, lenguajes de consulta, software de visualización de datos, calidad y ética de los datos y confidencialidad de la información. Entre las habilidades están limpiar y normalizar datos, aplicar métodos estadísticos, ejecutar cálculos analíticos, usar bases de datos, integrar datos de TIC, manejar muestras, definir criterios de calidad de datos e interpretar datos actuales.
+
+Analista de datos: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales el análisis web, de mercadotecnia y de redes sociales, el almacenamiento de datos y el procesamiento analítico en línea, Hadoop, las tecnologías en la nube, las hojas de cálculo, la modelación estadística, tomar decisiones basadas en datos y proporcionar presentaciones visuales de datos.
+
+Analista de datos: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, matemáticas, educación y capacitación, un idioma extranjero y servicio al cliente.
+
+Analista de datos: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse en análisis de datos hay cursos como el Curso SENA Análisis exploratorio de datos en Python, el Curso SENA Algoritmo de agrupamiento no supervisado K-means con Python y el Curso SENA Bases de datos, generalidades y sistemas de gestión, además del Tecnólogo SENA en Implementación y gestión de bases de datos. Entre las certificaciones útiles está la Certificación Python Institute PCEP (PCEP-30-02).

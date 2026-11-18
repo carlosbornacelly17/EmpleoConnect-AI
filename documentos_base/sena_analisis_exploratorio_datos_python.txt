@@ -1,0 +1,12 @@
+Titulo: Curso complementario SENA: Análisis exploratorio de datos en Python
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/analisis-exploratorio-de-datos-en-python?programId=186935&modality=V
+
+Curso SENA Análisis exploratorio de datos en Python: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 48 horas. Enseña a sistematizar datos masivos con métodos de analítica y herramientas tecnológicas, desde identificar las fuentes de datos hasta preparar un informe del análisis. Sirve para quien quiere trabajar como analista de datos.
+
+Curso SENA Análisis exploratorio de datos en Python: contenido.
+El curso recorre el proceso completo de un análisis: recopilar información de la situación de la empresa, identificar sus objetivos de negocio y las fuentes de datos, preparar los datos buscando errores y datos faltantes, definir las preguntas de análisis, la población, la muestra y las variables, ordenar y organizar el conjunto de datos, generar el modelo de análisis, elegir y generar gráficos, evaluar el modelo frente a los objetivos de la organización y preparar el informe final.
+
+Curso SENA Análisis exploratorio de datos en Python: requisitos de ingreso.
+Se necesita grado 9 aprobado, edad mínima de 14 años y superar la prueba de aptitud, motivación, interés y competencias mínimas. Se recomienda saber lógica de programación y algoritmia básica, tener nociones de estadística (población, muestra, muestreo, máximo, mínimo, promedio, varianza) y haber cursado antes el programa de variables y estructuras de control en Python.

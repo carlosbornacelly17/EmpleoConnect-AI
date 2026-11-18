@@ -1,0 +1,12 @@
+Titulo: Certificación Cisco CCST Networking (100-150): qué es y qué cubre (2026)
+Fuente: Cisco Systems, página oficial del examen CCST Networking, consultado en octubre de 2026
+Link: https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-networking.html
+
+Certificación Cisco CCST Networking: qué es.
+El CCST Networking (Cisco Certified Support Technician Networking) es una certificación de nivel de entrada de Cisco. Valida los conocimientos básicos de cómo funcionan las redes: dispositivos, medios y protocolos que hacen posible la comunicación. Se obtiene aprobando el examen 100-150, que dura 50 minutos y cuesta 125 dólares. Es un primer paso hacia el CCNA.
+
+Certificación Cisco CCST Networking: contenido y preparación.
+La preparación cubre fundamentos de redes, acceso a la red, el protocolo IP, comunicación entre redes, direccionamiento, ARP, DNS, DHCP, la capa de transporte, configuración básica de dispositivos Cisco y soporte y seguridad de red. Se puede estudiar con la ruta Network Technician de Cisco Networking Academy, pensada para cargos como técnico de soporte de redes, técnico de mesa de ayuda o especialista en soporte de TI.
+
+Certificación Cisco CCST Networking: para qué cargos sirve.
+Es una buena primera certificación para quien se inicia en redes y aspira a cargos como administrador de redes o ingeniero de telecomunicaciones, antes de pasar al CCNA.

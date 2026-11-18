@@ -1,0 +1,12 @@
+Titulo: Certificación AWS Certified Cloud Practitioner (CLF-C02): qué es y qué cubre (2026)
+Fuente: Amazon Web Services, guía oficial del examen AWS Certified Cloud Practitioner (CLF-C02), consultado en octubre de 2026
+Link: https://docs.aws.amazon.com/aws-certification/latest/examguides/cloud-practitioner-02.html
+
+Certificación AWS Cloud Practitioner (CLF-C02): qué es.
+El AWS Certified Cloud Practitioner es la certificación de nivel básico de Amazon Web Services. Se obtiene con el examen CLF-C02 y sirve para demostrar un conocimiento general de la nube de AWS, sin importar el rol de trabajo. Está pensada para personas con hasta seis meses de contacto con el diseño, la implementación o la operación en AWS, o que trabajan con personas en roles de nube. El examen se califica como aprobado o reprobado frente a un estándar mínimo.
+
+Certificación AWS Cloud Practitioner (CLF-C02): contenido.
+Cubre explicar el valor de la nube de AWS y entender sus costos, su economía y su facturación. Los temas son los conceptos de la nube, la seguridad y el cumplimiento, la tecnología y los servicios de AWS, y la facturación, los precios y el soporte. El examen tiene 65 preguntas y dura 90 minutos.
+
+Certificación AWS Cloud Practitioner (CLF-C02): para qué cargos sirve.
+Es una buena primera certificación para quien aspira al cargo de ingeniero de sistemas en la nube o a perfiles de arquitecto de sistemas de TIC que trabajen con servicios de nube.

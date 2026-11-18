@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero de telecomunicaciones (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2153.1 "ingeniero de telecomunicaciones"; y CNO 2025 (SENA), ocupación 2137 "Ingenieros de telecomunicaciones"
+Link: http://data.europa.eu/esco/occupation/02eb0ae6-ecdd-4602-9c8e-60ffe6dbe1e2
+
+Ingeniero de telecomunicaciones: qué hace.
+Diseña, construye, prueba y mantiene sistemas y redes de telecomunicaciones, incluidos equipos de radio y radiodifusión. Analiza las necesidades de los clientes, verifica que los equipos cumplan la normativa, prepara informes y propuestas, supervisa la instalación y el uso de equipos y forma al personal. Trabaja en empresas de telecomunicaciones, consultoras o de forma independiente. En la CNO aparece también como ingeniero de transmisión, de redes de telecomunicaciones, de seguridad en redes, de centro de operaciones de red (NOC) o arquitecto de infraestructura en telecomunicaciones.
+
+Ingeniero de telecomunicaciones: funciones principales.
+Según la CNO, asesora y diseña dispositivos, sistemas y servicios de telecomunicaciones, especifica métodos de instalación, materiales y normas de calidad y seguridad, y dirige y supervisa la implementación. También organiza el mantenimiento y la reparación, planifica y diseña redes de comunicaciones, gestiona proyectos, elabora manuales de operación y mantenimiento y atiende clientes según los niveles de servicio.
+
+Ingeniero de telecomunicaciones: habilidades técnicas esenciales.
+ESCO pide conocimientos de enrutado de red, protocolos de comunicación de TIC, principios de microondas y de electrónica, procesamiento de señales, normativa y sector de las telecomunicaciones, riesgos de seguridad de la red y garantía de calidad. Entre las habilidades están diseñar redes informáticas, analizar el ancho de banda requerido, instalar redes privadas virtuales, ajustar la capacidad del sistema, calcular costes de instalación, dar soporte y formación a usuarios y definir requisitos técnicos.
+
+Ingeniero de telecomunicaciones: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la ingeniería de redes, los enlaces troncales de telecomunicaciones, equipos Cisco, la gestión de proyectos con metodologías ágiles y lenguajes como Java, JavaScript, C# y PHP.
+
+Ingeniero de telecomunicaciones: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, el pensamiento crítico, la resolución de problemas complejos, el análisis de necesidades y la vigilancia de las operaciones. Los conocimientos que pide son administración y gerencia, ingeniería y tecnología, telecomunicación, producción y procesamiento, y computadoras y electrónica.
+
+Ingeniero de telecomunicaciones: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Tecnólogo SENA en Gestión de redes de datos, el Curso SENA Aplicación del reglamento técnico para redes internas de telecomunicaciones y el Curso SENA Electrónica: magnitudes, leyes y aplicaciones. Entre las certificaciones útiles están la Certificación Cisco CCST Networking y la Certificación Cisco CCNA (200-301).

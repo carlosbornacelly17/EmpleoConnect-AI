@@ -1,0 +1,19 @@
+# Documentación (no se sube)
+*.md
+
+# Secretos y datos de usuarios
+.env
+empleoconnect.db
+
+# Entornos virtuales y caché
+venv/
+venv_antiguo/
+__pycache__/
+*.pyc
+
+# Copias de seguridad
+*_backup_*.py
+*.bak
+
+# Modelo ONNX (540 MB, supera el límite de 100 MB de GitHub)
+agente2/modelo_onnx/modelo_cv.onnx

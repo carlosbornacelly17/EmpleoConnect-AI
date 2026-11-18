@@ -1,0 +1,12 @@
+Titulo: Tecnólogo SENA en Implementación y gestión de bases de datos
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/implementacion-y-gestion-de-bases-de-datos?programId=178214&modality=V
+
+Tecnólogo SENA en Implementación y gestión de bases de datos: qué es.
+Es un programa de formación titulada de nivel tecnólogo, modalidad virtual, con 3984 horas de duración. Forma en administrar, alimentar y construir bases de datos, incluidas bases de datos espaciales, y en desarrollar y probar soluciones de software. Es una ruta de formación hacia cargos de administrador de bases de datos y analista de datos.
+
+Tecnólogo SENA en Implementación y gestión de bases de datos: requisitos de ingreso.
+Además de cumplir con la inscripción del SENA, se debe presentar el resultado de la prueba o examen de Estado de la educación media.
+
+Tecnólogo SENA en Implementación y gestión de bases de datos: competencias técnicas.
+Al terminar, la persona sabe administrar bases de datos según los estándares y requisitos técnicos, alimentarlas según procedimientos técnicos, construir la base de datos espacial según los requisitos del sistema de información, establecer los requisitos de una solución de software, desarrollarla según el diseño y las metodologías, probarla según parámetros técnicos, configurar dispositivos de cómputo y utilizar herramientas informáticas.

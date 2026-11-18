@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero electrónico (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2152.1 "ingeniero electrónico"; y CNO 2025 (SENA), ocupación 2134 "Ingenieros electrónicos"
+Link: http://data.europa.eu/esco/occupation/4d34a9ee-2653-4da0-bef7-f59294577224
+
+Ingeniero electrónico: qué hace.
+Investiga, diseña y desarrolla sistemas electrónicos, como circuitos, dispositivos semiconductores y equipos que usan electricidad, trabajando con condensadores, transistores, diodos y resistencias para aplicaciones en telecomunicaciones, acústica, instrumentación y control. Trabaja en empresas de consultoría, desarrollo, fabricación, servicio, soporte e integración de equipos electrónicos, o de forma independiente. En la CNO aparece también como diseñador electrónico, ingeniero de sistemas embebidos, ingeniero de firmware, ingeniero de instrumentación o diseñador de circuitos impresos (PCB).
+
+Ingeniero electrónico: funciones principales.
+Según la CNO, especifica métodos de producción o instalación y dirige los trabajos, organiza el mantenimiento y la reparación de equipos, identifica especificaciones técnicas según el cliente, elabora software embebido con sus algoritmos y diagramas de flujo, diseña circuitos electrónicos y tarjetas de circuito impreso, diseña pruebas de productos, elabora manuales y formula proyectos tecnológicos.
+
+Ingeniero electrónico: habilidades técnicas esenciales.
+ESCO pide conocimientos de electrónica y sus tipos, electricidad, física, matemáticas, mecánica, principios de ingeniería, planos de proyectos, procedimientos de prueba de productos electrónicos y eléctricos, sistemas de gestión de baterías y normativa medioambiental. Entre las habilidades están diseñar sistemas electrónicos y eléctricos, desarrollar procedimientos de prueba, modificar y aprobar diseños técnicos, usar software de dibujo técnico, ejecutar estudios de viabilidad, redactar informes técnicos y gestionar presupuestos.
+
+Ingeniero electrónico: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales los controladores lógicos programables, la robótica, el diseño asistido por ordenador, el diseño de circuitos integrados, el electromagnetismo, la electrónica de consumo, el diseño de baterías y la gestión de riesgos y de proyectos.
+
+Ingeniero electrónico: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, un idioma extranjero, herramientas de simulación y diseño, y manejo de las TIC.
+
+Ingeniero electrónico: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para reforzar fundamentos y diseño hay el Curso SENA Electrónica: magnitudes, leyes y aplicaciones, el Curso SENA Implementación de circuitos electrónicos digitales y el Curso SENA Diseño de productos electrónicos con microcontroladores.

@@ -1,0 +1,12 @@
+Titulo: Curso complementario SENA: Algoritmo de agrupamiento no supervisado K-means con Python
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/algoritmo-de-agrupamiento-no-supervisado-k-means-con-python?programId=186934&modality=V
+
+Curso SENA K-means con Python: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 48 horas. Enseña a trabajar con datos masivos usando el algoritmo de agrupamiento K-means en Python. Sirve para fortalecer el perfil de analista de datos, sobre todo en quien ya sabe programar en Python.
+
+Curso SENA K-means con Python: requisitos de ingreso.
+Se necesita grado 9 aprobado, edad mínima de 14 años y superar la prueba de aptitud, motivación, interés y competencias mínimas. Se recomienda saber lógica de programación y algoritmia básica (variables, constantes, estructuras condicionales y repetitivas), tener competencias para resolver problemas con algoritmos y conocer el lenguaje Python.
+
+Curso SENA K-means con Python: competencia que desarrolla.
+Al terminar, la persona sabe sistematizar datos masivos de acuerdo con métodos de analítica y herramientas tecnológicas. La página no publica temario.

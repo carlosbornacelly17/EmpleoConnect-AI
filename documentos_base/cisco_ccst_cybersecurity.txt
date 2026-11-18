@@ -1,0 +1,12 @@
+Titulo: Certificación Cisco CCST Cybersecurity (100-160): qué es y qué cubre (2026)
+Fuente: Cisco Systems, página oficial del examen CCST Cybersecurity, consultado en octubre de 2026
+Link: https://www.cisco.com/site/us/en/learn/training-certifications/exams/ccst-cybersecurity.html
+
+Certificación Cisco CCST Cybersecurity: qué es.
+El CCST Cybersecurity (Cisco Certified Support Technician Cybersecurity) es una certificación de nivel de entrada de Cisco en ciberseguridad. Valida conocimientos de principios de seguridad, seguridad de redes y de equipos finales, evaluación de vulnerabilidades, gestión de riesgos y manejo de incidentes. Se obtiene aprobando el examen 100-160, que cuesta 125 dólares, y es un primer paso hacia la certificación de operaciones de ciberseguridad de Cisco.
+
+Certificación Cisco CCST Cybersecurity: contenido y preparación.
+La preparación enseña a definir principios esenciales de seguridad, explicar amenazas y vulnerabilidades comunes, la gestión de accesos, el cifrado, las vulnerabilidades del protocolo TCP/IP, configurar una red inalámbrica doméstica segura y describir la respuesta a incidentes. Se puede estudiar con la ruta Junior Cybersecurity Analyst de Cisco Networking Academy, pensada para cargos como técnico de ciberseguridad, analista de ciberseguridad o soporte de nivel 1.
+
+Certificación Cisco CCST Cybersecurity: para qué cargos sirve.
+Es una buena primera certificación para quien aspira al cargo de gestor de incidentes de ciberseguridad o a perfiles de administrador de redes con enfoque en seguridad.

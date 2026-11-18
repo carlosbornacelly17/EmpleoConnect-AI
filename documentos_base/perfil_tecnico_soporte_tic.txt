@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Técnico de soporte de TIC (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 3512.1 "agente del servicio de asistencia de TIC"; y CNO 2025 (SENA), ocupación 2331 "Técnicos en asistencia y soporte de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/aaeec9a7-dc57-4485-890c-86b3eef735f9
+
+Técnico de soporte de TIC: qué hace.
+Da asistencia técnica a los usuarios de equipos informáticos, responde sus preguntas y resuelve sus problemas por teléfono o por vía electrónica, y ayuda con el uso de hardware y software. En la CNO incluye el diagnóstico y la solución de problemas de software, hardware, periféricos, redes, bases de datos e internet, y el apoyo en la instalación y el mantenimiento. El cargo aparece como técnico en asistencia y soporte de TI, técnico de mesa de ayuda (help desk), técnico de soporte de sistemas e informática, auxiliar de soporte técnico u operador de servicio de asistencia informática.
+
+Técnico de soporte de TIC: funciones principales.
+Según la CNO, atiende los requerimientos de los usuarios según los procedimientos técnicos, instala y ensambla equipos de cómputo, los mantiene y repara, instruye en el uso de herramientas informáticas, elabora informes técnicos de mantenimiento o reparación y registra la información.
+
+Técnico de soporte de TIC: habilidades técnicas esenciales.
+ESCO pide conocimientos de las características del producto y del servicio y de los requisitos de usuario de los sistemas de TIC. Entre las habilidades están garantizar la satisfacción del cliente, comunicarse con los clientes, identificar sus necesidades, resolver problemas de sistemas de TIC, crear soluciones, dar soporte a los usuarios, usar un sistema de tickets, usar hardware de TIC, usar software de gestión de relaciones con clientes, priorizar las solicitudes, llevar registros de tareas y ofrecer seguimiento.
+
+Técnico de soporte de TIC: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la base de conocimiento, las plataformas de ayuda de las TIC, la confidencialidad de la información, la infraestructura de las TIC, el procedimiento de notificación escalonada, instalar redes privadas virtuales y antivirus, y responder llamadas.
+
+Técnico de soporte de TIC: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la orientación al servicio, el mantenimiento de equipos y la reparación. Los conocimientos que pide son mecánica, manejo de las TIC, mantenimiento, servicio al cliente, y computadoras y electrónica.
+
+Técnico de soporte de TIC: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Una certificación de entrada útil es la Certificación Cisco CCST Networking, pensada para cargos como técnico de soporte de redes o técnico de mesa de ayuda. Como base de formación hay el Tecnólogo SENA en Gestión de redes de datos.

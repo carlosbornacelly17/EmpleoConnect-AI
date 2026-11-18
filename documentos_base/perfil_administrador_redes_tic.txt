@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Administrador de redes de TIC (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2522.1.1 "administrador de redes de TIC"; y CNO 2025 (SENA), ocupación 2172 "Administradores de servicios de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/81480b40-a318-47f3-9b2c-56b69ed67d95
+
+Administrador de redes de TIC: qué hace.
+Mantiene el funcionamiento de una red de datos fiable, segura y eficiente (LAN, WAN, intranet e internet). Gestiona protocolos de enrutamiento, tablas de ruta y aplicaciones de autenticación, y mantiene servidores, pasarelas VPN, sistemas de detección de intrusiones, enrutadores, conmutadores, firewalls, comunicaciones IP y equipos de usuario, aplicando actualizaciones de seguridad. En la CNO aparece como administrador de red de datos, administrador de redes y sistemas TI, administrador de data center o administrador de seguridad informática.
+
+Administrador de redes de TIC: funciones principales.
+Según la CNO, administra la infraestructura tecnológica y de red y las bases de datos, diseña y controla el centro de datos, gestiona los riesgos de las soluciones de TIC, implementa y controla el sistema de seguridad de la información y supervisa a las personas a cargo.
+
+Administrador de redes de TIC: habilidades técnicas esenciales.
+ESCO pide conocimientos de herramientas de gestión de red, enrutado, normas de red, riesgos de seguridad de la red, contramedidas frente a ataques informáticos, legislación de seguridad de las TIC, tecnologías en la nube y análisis del rendimiento. Entre las habilidades están definir reglas e instalar cortafuegos, diseñar redes, instalar redes privadas virtuales, mantener la configuración del protocolo de internet, aplicar herramientas de diagnóstico, analizar el ancho de banda, hacer copias de seguridad, instalar antivirus, gestionar la virtualización y aplicar políticas de seguridad.
+
+Administrador de redes de TIC: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la ingeniería de redes, Apache Tomcat, las políticas organizativas y lenguajes como Java, JavaScript, PHP y C#.
+
+Administrador de redes de TIC: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, el pensamiento crítico, la evaluación y control de actividades, la resolución de problemas complejos y el criterio y toma de decisiones. Los conocimientos que pide son ingeniería y tecnología, un idioma extranjero, manejo de las TIC, servicio al cliente, y computadoras y electrónica.
+
+Administrador de redes de TIC: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Tecnólogo SENA en Gestión de redes de datos y el Curso SENA Aplicación del reglamento técnico para redes internas de telecomunicaciones. Entre las certificaciones útiles están la Certificación Cisco CCST Networking y la Certificación Cisco CCNA (200-301).

@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Científico de datos (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2511.4 "científico de datos"; y CNO 2025 (SENA), ocupación 2171 "Analistas de sistemas informáticos"
+Link: http://data.europa.eu/esco/occupation/258e46f9-0075-4a2e-adae-1ff0477e0f30
+
+Científico de datos: qué hace.
+Detecta e interpreta fuentes de datos ricas, gestiona grandes cantidades de datos, fusiona fuentes, garantiza la coherencia de los conjuntos de datos y crea visualizaciones que ayudan a entenderlos. Se apoya en modelos matemáticos, comunica sus conclusiones a especialistas y a públicos no especializados y recomienda cómo aplicar los datos. La CNO no tiene una ocupación propia: lo agrupa con los analistas de sistemas informáticos, donde aparece como analista de analytics, analista de inteligencia de negocio o analista de transformación digital.
+
+Científico de datos: funciones principales.
+Según la CNO, establece y evalúa los requisitos de la solución, la prueba, mide los riesgos, sistematiza datos masivos con métodos de analítica, integra datos con técnicas de visualización y atiende los requerimientos de los clientes.
+
+Científico de datos: habilidades técnicas esenciales.
+ESCO pide conocimientos de modelación matemática y estadística, extracción de datos y de información, ingeniería y ciencia de datos, análisis cuantitativo y empírico, software de visualización, técnicas de presentación visual, lenguajes de consulta, procesamiento analítico en línea, modelos de datos y ética de los datos. Entre las habilidades están limpiar y normalizar datos, ejecutar cálculos matemáticos analíticos, manejar muestras, interpretar datos actuales, establecer procesos de datos, compilar sistemas de recomendación, desarrollar aplicaciones de procesamiento de datos, aplicar procesos de calidad de datos y presentar visualmente los resultados.
+
+Científico de datos: orientación a investigación y tecnologías complementarias.
+ESCO describe este cargo con un perfil de investigación: incluye llevar a cabo investigaciones científicas, redactar y publicar artículos, gestionar datos de investigación y difundir resultados. Como opcionales menciona la simulación por ordenador, el análisis de mercadotecnia y de redes sociales, el reconocimiento de imagen, la inteligencia empresarial, los datos no estructurados y el análisis de empresas.
+
+Científico de datos: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, matemáticas, educación y capacitación, un idioma extranjero y servicio al cliente.
+
+Científico de datos: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse hay el Curso SENA Análisis exploratorio de datos en Python, el Curso SENA Algoritmo de agrupamiento no supervisado K-means con Python, el Curso SENA Bases de datos, generalidades y sistemas de gestión y el Tecnólogo SENA en Implementación y gestión de bases de datos. Entre las certificaciones útiles está la Certificación Python Institute PCEP (PCEP-30-02).

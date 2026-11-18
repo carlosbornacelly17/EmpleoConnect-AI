@@ -1,0 +1,9 @@
+Titulo: Curso complementario SENA: Diseño de productos electrónicos con microcontroladores
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/diseno-de-productos-electronicos-con-microcontroladores?programId=51572&modality=V
+
+Curso SENA Diseño de productos electrónicos con microcontroladores: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 40 horas. Su competencia es mejorar el funcionamiento de máquinas y procesos buscando su eficiencia y productividad. Sirve a quien quiere diseñar productos electrónicos y sistemas embebidos.
+
+Curso SENA Diseño de productos electrónicos con microcontroladores: contenido y requisitos.
+Tiene cuatro unidades: diseño de producto electrónico, análisis estructural y funcional de un microcontrolador, manejo de salidas con LED y display, y manejo de salidas LCD. Se necesita manejar herramientas informáticas y de comunicación (correo, chats, procesadores de texto, hojas de cálculo, presentaciones, internet) para la formación virtual.

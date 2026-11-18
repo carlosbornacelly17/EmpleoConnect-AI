@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Desarrollador de software (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2512.4 "desarrollador de software"; y CNO 2025 (SENA), ocupación 2173 "Desarrolladores de aplicaciones informáticas y digitales"
+Link: http://data.europa.eu/esco/occupation/f2b15a0e-e65a-438a-affb-29b9d50b77d1
+
+Desarrollador de software: qué hace.
+Diseña, construye, prueba y mantiene aplicaciones y soluciones informáticas a partir de las especificaciones y del diseño acordados, usando lenguajes, herramientas y plataformas de programación. Trabaja en empresas de tecnología, consultoras o áreas de TI de organizaciones públicas y privadas, o de forma independiente. En Colombia el cargo también aparece como programador de software, desarrollador de back-end, desarrollador de front-end, desarrollador full stack, desarrollador de sitios web o ingeniero de desarrollo informático.
+
+Desarrollador de software: funciones principales.
+Evalúa los requisitos de las aplicaciones, las diseña, las desarrolla según el diseño y las metodologías acordadas, las prueba con parámetros técnicos y modelos de referencia y las implementa según los requisitos de operación. También integra componentes digitales y puede coordinar al personal a cargo. En algunos puestos construye proyectos multimedia o servicios geográficos.
+
+Desarrollador de software: habilidades técnicas esenciales.
+Según ESCO, necesita dominar la programación informática, los principios y procesos de ingeniería, y las herramientas de depuración, de gestión de la configuración del software y de entornos de desarrollo. Debe saber depurar software, usar patrones de diseño y bibliotecas de software, desarrollar prototipos, crear diagramas de flujo, analizar especificaciones, definir e interpretar requisitos técnicos, identificar los requisitos del cliente y trabajar con servicios web.
+
+Desarrollador de software: lenguajes y tecnologías que se valoran.
+ESCO menciona como habilidades opcionales, que varían según el empleo, lenguajes como Java, JavaScript, TypeScript, Python, C#, C++, PHP, Swift, Ruby y R, y bases de datos con SQL y NoSQL. También aparecen la programación orientada a objetos, funcional y concurrente, el diseño de interfaces de usuario, el aprendizaje automático, la migración de datos, la integración de componentes, herramientas de automatización como Jenkins y Ansible, y frameworks como ASP.NET.
+
+Desarrollador de software: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, el pensamiento crítico y la resolución de problemas complejos, además de la programación. Los conocimientos que pide son ingeniería y tecnología, diseño, computadoras y electrónica, un idioma extranjero y servicio al cliente.
+
+Desarrollador de software: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Una ruta de formación posible es el Tecnólogo SENA en Análisis y desarrollo de software. Para reforzar habilidades puntuales hay cursos como el Curso SENA Análisis exploratorio de datos en Python, el Curso SENA Bases de datos, generalidades y sistemas de gestión, el Tecnólogo SENA en Implementación y gestión de bases de datos y el Curso SENA Aplicación de la calidad del software en el proceso de desarrollo. Entre las certificaciones útiles está la Certificación Python Institute PCEP (PCEP-30-02).

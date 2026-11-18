@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Arquitecto de sistemas de TIC (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2511.14 "arquitecto de sistemas de TIC"; y CNO 2025 (SENA), ocupación 2145 "Ingenieros de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/e1c72b5f-4c5c-487c-a6df-e84b64a51dae
+
+Arquitecto de sistemas de TIC: qué hace.
+Diseña la arquitectura, los componentes, los módulos, las interfaces y los datos de un sistema de varios componentes para que cumpla los requisitos especificados. En la CNO se agrupa con los ingenieros de tecnologías de la información, que investigan, planifican, diseñan, evalúan, integran e implementan soluciones informáticas, sistemas operativos, almacenes de datos y software. Es el perfil donde aparecen denominaciones como ingeniero de sistemas, ingeniero de sistemas y computación, ingeniero de software, auditor de TI y coordinador de proyecto informático.
+
+Arquitecto de sistemas de TIC: funciones principales.
+Según la CNO, estructura propuestas técnicas, establece los requisitos de la solución y de la infraestructura, y diseña la arquitectura de TIC, la arquitectura del software, el sistema de seguridad de la información y el centro de datos. También gestiona riesgos, diseña pruebas, evalúa técnicamente y audita servicios y productos, coordina al personal a cargo y atiende clientes.
+
+Arquitecto de sistemas de TIC: habilidades técnicas esenciales.
+ESCO pide conocimientos del ciclo de vida del desarrollo de sistemas, diseño y teoría de sistemas, plataformas de hardware, sistemas digitales, programación web, modelos de proceso empresarial y herramientas de desarrollo de bases de datos. Entre las habilidades están diseñar sistemas de información y arquitectura de empresa, analizar requisitos empresariales, definir requisitos técnicos, crear modelos de datos, integrar componentes, realizar pruebas de sistema, aplicar políticas de seguridad, gestionar bases de datos y armonizar el software con la arquitectura del sistema.
+
+Arquitecto de sistemas de TIC: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la gestión de proyectos con metodologías ágiles, la ingeniería de sistemas basada en modelos, la integración de sistemas de TIC y lenguajes como Java, JavaScript, C#, PHP y R.
+
+Arquitecto de sistemas de TIC: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, matemáticas, un idioma extranjero, manejo de las TIC y servicio al cliente.
+
+Arquitecto de sistemas de TIC: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Tecnólogo SENA en Análisis y desarrollo de software, el Tecnólogo SENA en Implementación y gestión de bases de datos y el Curso SENA Aplicación de la calidad del software en el proceso de desarrollo. Como complemento para trabajar con servicios de nube están la Certificación AWS Certified Cloud Practitioner (CLF-C02) y la Certificación Microsoft Azure Fundamentals (AZ-900).

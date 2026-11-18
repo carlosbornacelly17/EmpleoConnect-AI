@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero de automatización (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2141.4.2.1 "ingeniero de automatización"; y CNO 2025 (SENA), ocupación 2136 "Ingenieros de automatización e instrumentación"
+Link: http://data.europa.eu/esco/occupation/bb609566-3ab6-44dd-8f48-cf0b15b96827
+
+Ingeniero de automatización: qué hace.
+Investiga, diseña y desarrolla aplicaciones y sistemas para automatizar procesos de producción, aprovecha la robótica industrial, supervisa el proceso y asegura que los sistemas funcionen de forma segura. Trabaja en empresas de ingeniería, servicios, consultoría, procesos industriales y manufactura, o de forma independiente. En la CNO aparece también como ingeniero mecatrónico, de automatización industrial, de instrumentación industrial o de instrumentación y control de procesos.
+
+Ingeniero de automatización: funciones principales.
+Según la CNO, elabora estudios de factibilidad y diseño de sistemas de instrumentación, automatización y control, formula proyectos, ofrece asesorías, consultorías e interventorías, diseña, integra e implementa aplicaciones, y supervisa la instalación, la puesta en marcha y el mantenimiento. También determina el origen de fallas, programa sistemas de supervisión, control y adquisición de datos, desarrolla manuales, supervisa técnicos y aplica normas de seguridad industrial, salud ocupacional y medio ambiente.
+
+Ingeniero de automatización: habilidades técnicas esenciales.
+ESCO pide conocimientos de tecnología de la automatización, sistemas de control automático, ingeniería de control, mecatrónica, robótica, sensores, electrónica, ingeniería eléctrica, mecánica e industrial, procesos de fabricación, planos y dibujos técnicos, matemáticas y física. Entre las habilidades están diseñar componentes de automatización y prototipos, simular diseños mecatrónicos, desarrollar procedimientos de prueba electrónica y mecatrónica, definir requisitos técnicos, controlar la calidad de fabricación y gestionar proyectos.
+
+Ingeniero de automatización: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales la electromecánica, la microelectrónica, el firmware, el software de ingeniería asistida por ordenador, la ingeniería de sistemas basada en modelos, montar sensores, instalar máquinas mecatrónicas y hablar diferentes idiomas.
+
+Ingeniero de automatización: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la lógica matemática, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, diseño, matemáticas, física, y computadoras y electrónica.
+
+Ingeniero de automatización: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse hay el Curso SENA Introducción a sistemas de automatización, el Curso especial SENA Puesta a punto de procesos básicos de automatización industrial asistidos por PLC, el Curso especial SENA Automatización de procesos neumáticos discretos y el Curso SENA Diseño de productos electrónicos con microcontroladores.

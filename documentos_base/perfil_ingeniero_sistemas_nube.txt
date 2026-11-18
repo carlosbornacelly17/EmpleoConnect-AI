@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Ingeniero de sistemas en la nube (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2512.1 "ingeniero de sistemas en la nube"; y CNO 2025 (SENA), ocupación 2145 "Ingenieros de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/349ee6f6-c295-4c38-9b98-48765b55280e
+
+Ingeniero de sistemas en la nube: qué hace.
+Diseña, planifica, gestiona y mantiene sistemas basados en la nube. Desarrolla e implementa aplicaciones en la nube, gestiona la migración a la nube de aplicaciones que están en servidores propios y depura problemas de la pila de la nube. En la CNO se agrupa con los ingenieros de tecnologías de la información, y el cargo de administrador de servicios en la nube aparece entre los administradores de servicios de TI.
+
+Ingeniero de sistemas en la nube: funciones principales.
+Según la CNO, estructura propuestas técnicas, establece los requisitos de la solución y de la infraestructura, diseña la arquitectura de TIC y del software, el sistema de seguridad de la información y el centro de datos, gestiona riesgos, diseña pruebas y audita servicios. También coordina al personal a cargo y atiende clientes.
+
+Ingeniero de sistemas en la nube: habilidades técnicas esenciales.
+ESCO pide conocimientos de tecnologías en la nube, seguridad y cumplimiento en la nube, seguimiento y notificación en la nube, ciberseguridad, servicios web, sistemas operativos, programación informática e integración de sistemas de TIC. Entre las habilidades están planificar la migración a la nube, diseñar arquitectura, redes y bases de datos en la nube, facilitar recursos, desarrollar con servicios en la nube, refactorizar, responder a incidentes, automatizar tareas, gestionar datos y almacenamiento, gestionar claves para proteger datos y depurar software.
+
+Ingeniero de sistemas en la nube: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales Python, Java, Ruby, la ingeniería de datos, las normas de seguridad de las TIC, la gestión de riesgos, el análisis de datos y los lenguajes de consulta.
+
+Ingeniero de sistemas en la nube: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, la comunicación asertiva, el pensamiento crítico y la resolución de problemas complejos. Los conocimientos que pide son ingeniería y tecnología, matemáticas, un idioma extranjero, manejo de las TIC y servicio al cliente.
+
+Ingeniero de sistemas en la nube: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Tecnólogo SENA en Análisis y desarrollo de software y el Tecnólogo SENA en Gestión de redes de datos. Entre las certificaciones útiles están la Certificación AWS Certified Cloud Practitioner (CLF-C02) y la Certificación Microsoft Azure Fundamentals (AZ-900).

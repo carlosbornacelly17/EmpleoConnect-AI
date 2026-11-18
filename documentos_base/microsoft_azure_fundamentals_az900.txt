@@ -1,0 +1,12 @@
+Titulo: Certificación Microsoft Azure Fundamentals (AZ-900): qué es y qué cubre (2026)
+Fuente: Microsoft Learn, página oficial de la certificación Microsoft Certified: Azure Fundamentals y guía del examen AZ-900, consultado en octubre de 2026
+Link: https://learn.microsoft.com/certifications/exams/az-900
+
+Certificación Microsoft Azure Fundamentals (AZ-900): qué es.
+Microsoft Certified: Azure Fundamentals es la certificación de nivel básico de Microsoft para la nube. Se obtiene con el examen AZ-900 y demuestra conocimientos básicos de conceptos de nube, servicios principales de Azure y funciones de gestión y gobierno. Describe componentes y servicios de Azure como cómputo, redes y almacenamiento, y las herramientas para proteger, gobernar y administrar Azure. Es un punto de partida habitual para una carrera en Azure.
+
+Certificación Microsoft Azure Fundamentals (AZ-900): para quién y cómo prepararla.
+Está pensada para personas con experiencia en un área de TI, como administración de infraestructura, bases de datos o desarrollo de software. La guía de estudio de Microsoft Learn detalla las habilidades evaluadas, con actualización del 14 de enero de 2026, y Microsoft ofrece documentación y rutas de aprendizaje gratuitas en Microsoft Learn.
+
+Certificación Microsoft Azure Fundamentals (AZ-900): para qué cargos sirve.
+Es una buena primera certificación para quien aspira al cargo de ingeniero de sistemas en la nube o a perfiles de arquitecto de sistemas de TIC que trabajen con servicios de nube.

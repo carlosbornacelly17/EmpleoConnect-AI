@@ -1,0 +1,9 @@
+Titulo: Curso complementario SENA: Aplicación de la calidad del software en el proceso de desarrollo
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/aplicacion-de-la-calidad-del-software-en-el-proceso-de-desarrollo?programId=2523&modality=V
+
+Curso SENA Calidad del software en el proceso de desarrollo: qué es.
+Es un curso de formación complementaria del SENA, virtual, de 40 horas. Su competencia es analizar los requerimientos del cliente para construir el sistema de información. Sirve a quien desarrolla o prueba software y quiere conocer las normas de calidad.
+
+Curso SENA Calidad del software en el proceso de desarrollo: contenido y requisitos.
+Tiene cuatro unidades: mediciones de la norma ISO/IEC 9126, introducción a la norma ISO 25000, modelos y medidas de calidad, y las series 2503n y 2504n con el modelo de calidad. Para cursarlo se necesita manejar herramientas informáticas y de comunicación (correo, chats, procesadores de texto, hojas de cálculo, presentaciones, internet) necesarias para la formación virtual.

@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Desarrollador web (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2513.5 "desarrollador web"; y CNO 2025 (SENA), ocupación 2173 "Desarrolladores de aplicaciones informáticas y digitales"
+Link: http://data.europa.eu/esco/occupation/c40a2919-48a9-40ea-b506-1f34f693496d
+
+Desarrollador web: qué hace.
+Desarrolla, aplica y documenta programas informáticos accesibles desde internet a partir de diseños suministrados. Alinea la presencia web del cliente con su estrategia empresarial, diagnostica problemas de software y busca maneras de mejorar la aplicación. En la CNO se agrupa con los desarrolladores de aplicaciones y aparece como desarrollador de sitios web, desarrollador de front-end, desarrollador de back-end, desarrollador full stack, programador de sitios web, diseñador web o diseñador web y multimedia.
+
+Desarrollador web: funciones principales.
+Según la CNO, evalúa los requisitos de las aplicaciones, las diseña, las desarrolla, las prueba y las implementa. También planea contenido digital, integra componentes digitales, formula y construye proyectos multimedia y de tecnología digital, y coordina al personal a cargo.
+
+Desarrollador web: habilidades técnicas esenciales.
+ESCO pide conocimientos de programación informática y programación web, normas del consorcio World Wide Web (W3C), lenguajes de hoja de estilo, servicios web, herramientas de depuración, entornos de desarrollo, gestión de la configuración del software, plataformas colaborativas, procesos de desarrollo de contenido y sistemas de nombres de dominio. Entre las habilidades están usar lenguajes de marcado, depurar software, usar patrones de diseño y bibliotecas, traducir requisitos en un diseño visual, desarrollar contenido digital, aplicar diseño de interfaz web, desarrollar prototipos y recopilar opiniones de los clientes.
+
+Desarrollador web: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales una larga lista de lenguajes y herramientas, entre ellas Java, Ruby, Visual Basic, Sass, LESS y Apache Maven.
+
+Desarrollador web: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, la escucha activa, el pensamiento crítico, la resolución de problemas complejos y la programación. Los conocimientos que pide son ingeniería y tecnología, diseño, un idioma extranjero, servicio al cliente, y computadoras y electrónica.
+
+Desarrollador web: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Una ruta de formación posible es el Tecnólogo SENA en Análisis y desarrollo de software. Para reforzar habilidades puntuales hay el Curso SENA Aplicación de la calidad del software en el proceso de desarrollo y el Curso SENA Bases de datos, generalidades y sistemas de gestión. Entre las certificaciones útiles está la Certificación Python Institute PCEP (PCEP-30-02).

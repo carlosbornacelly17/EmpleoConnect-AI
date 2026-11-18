@@ -1,0 +1,12 @@
+Titulo: Tecnólogo SENA en Análisis y desarrollo de software
+Fuente: SENA (Servicio Nacional de Aprendizaje), Betowa, oferta educativa, consultado en octubre de 2026
+Link: https://betowa.sena.edu.co/oferta/analisis-y-desarrollo-de-software?programId=136456&modality=V
+
+Tecnólogo SENA en Análisis y desarrollo de software: qué es.
+Es un programa de formación titulada de nivel tecnólogo, modalidad virtual, con 3984 horas de duración. Cubre el ciclo completo de un proyecto de software: levantar y evaluar requisitos, diseñar, desarrollar, implementar y controlar la calidad de la solución. Es una ruta de formación hacia el cargo de desarrollador de software.
+
+Tecnólogo SENA en Análisis y desarrollo de software: requisitos de ingreso.
+Además de cumplir con la inscripción del SENA, se debe presentar el resultado de la prueba o examen de Estado de la educación media.
+
+Tecnólogo SENA en Análisis y desarrollo de software: competencias técnicas.
+Al terminar, la persona sabe establecer y evaluar los requisitos de una solución de software según estándares y metodologías de análisis, diseñar la solución según procedimientos y requisitos técnicos, desarrollarla según el diseño y las metodologías de desarrollo, implementarla según los requisitos de operación, controlar la calidad del servicio de software según estándares técnicos, estructurar propuestas técnicas de servicios de tecnología de la información y utilizar herramientas informáticas.

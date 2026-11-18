@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Contable (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2411.1 "contable"; y CNO 2025 (SENA), ocupación 1111 "Contadores"
+Link: http://data.europa.eu/esco/occupation/eda0d957-3c3c-4139-b89a-a18bc9e18897
+
+Contable: qué hace.
+Revisa y analiza estados financieros, presupuestos, informes y planes empresariales para detectar irregularidades por errores o fraude, y asesora en previsión financiera y análisis de riesgos. Puede auditar datos financieros, preparar declaraciones de renta y dar asesoría fiscal. En la CNO aplica, planea y administra sistemas financieros de personas y empresas según la normativa nacional e internacional, y controla las obligaciones fiscales. Aparece como contador, contador público, contador auditor, revisor fiscal, analista de impuestos, profesional contable o jefe de costos y presupuestos.
+
+Contable: funciones principales.
+Según la CNO, elabora y estructura información financiera, analiza información y proyecciones financieras y de inversiones, gestiona y prepara las obligaciones tributarias, prepara y controla planes financieros y presupuestales, supervisa procesos de auditoría financiera y contable y calcula los costos de las operaciones.
+
+Contable: habilidades técnicas esenciales.
+ESCO pide conocimientos de los procedimientos del departamento contable y financiero, normativa contable, estados financieros, asientos contables, técnicas de contabilidad, amortización, detección del fraude, estadística, derecho mercantil y legislación fiscal. Entre las habilidades están preparar autoliquidaciones fiscales, calcular impuestos, realizar operaciones de balance, interpretar y preparar estados financieros, revisar registros contables, detectar errores contables, analizar el rendimiento financiero de una empresa, gestionar cuentas y preparar balances de prueba.
+
+Contable: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales las Normas Internacionales de Información Financiera (NIIF), los principios contables generalmente aceptados, las previsiones financieras, la gestión de la liquidez y de presupuestos, colaborar con auditores, preparar informes de auditorías financieras y asesorar sobre la gestión del riesgo.
+
+Contable: habilidades blandas y conocimientos.
+La CNO destaca la comunicación asertiva, la lógica matemática, el pensamiento crítico, el trabajo bajo presión y la flexibilidad y adaptabilidad. Los conocimientos que pide son matemáticas, un idioma extranjero, economía y contabilidad, normas de contabilidad e información financiera, auditoría y aseguramiento, normas tributarias, y finanzas.
+
+Contable: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Como base de formación hay el Técnico SENA en Contabilización de operaciones comerciales y financieras y, para la parte de control, el Curso SENA Análisis y planeación de auditorías en sistemas de gestión.

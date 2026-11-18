@@ -1,0 +1,21 @@
+Titulo: Perfil ocupacional: Administrador de bases de datos (2025)
+Fuente: ESCO v1.2.1 (Comisión Europea, 2025), ocupación 2521.1 "administrador de bases de datos"; y CNO 2025 (SENA), ocupación 2172 "Administradores de servicios de tecnologías de la información"
+Link: http://data.europa.eu/esco/occupation/8c57af09-719c-42b3-be40-6ed4946236cc
+
+Administrador de bases de datos: qué hace.
+Prueba, aplica y gestiona bases de datos informáticas. Usa su experiencia en sistemas de gestión de bases de datos para planificar, coordinar y aplicar medidas de seguridad que las protejan, y usa scripts y archivos de configuración para adaptar la base de datos a las necesidades de los usuarios. En la CNO se agrupa con los administradores de servicios de TI y aparece como administrador de base de datos, administrador de centro de cómputo, administrador de data center, administrador de sistemas informáticos o administrador de seguridad de la información.
+
+Administrador de bases de datos: funciones principales.
+Según la CNO, administra bases de datos según los estándares y requisitos técnicos, administra la infraestructura tecnológica y de red, diseña y controla el centro de datos, gestiona los riesgos de las soluciones de TIC, implementa y controla el sistema de seguridad de la información y supervisa a las personas a cargo.
+
+Administrador de bases de datos: habilidades técnicas esenciales.
+ESCO pide conocimientos de sistemas de gestión de bases de datos, lenguajes de consulta, modelos de datos, estructura de la información, herramientas de desarrollo de bases de datos, almacenamiento de datos, evaluación de la calidad de los datos, informática distribuida y mejores prácticas de copias de seguridad. Entre las habilidades están diseñar esquemas y la estructura física de una base de datos, manejar sistemas de gestión de bases de datos relacionales, usar programación con scripts, hacer copias de seguridad y diseñar sus especificaciones, mantener el rendimiento y la seguridad, equilibrar los recursos, crear modelos de datos y detectar y corregir errores de las TIC.
+
+Administrador de bases de datos: tecnologías y habilidades complementarias.
+ESCO menciona como opcionales MySQL, PostgreSQL, DB2, Microsoft Access, IBM Informix y OpenEdge, además de inteligencia empresarial, ingeniería de datos y lenguajes de consulta como MDX, XQuery y SPARQL.
+
+Administrador de bases de datos: habilidades blandas y conocimientos.
+La CNO destaca la comprensión de lectura, el pensamiento crítico, la evaluación y control de actividades, la resolución de problemas complejos y el criterio y toma de decisiones. Los conocimientos que pide son ingeniería y tecnología, un idioma extranjero, manejo de las TIC, servicio al cliente, y computadoras y electrónica.
+
+Administrador de bases de datos: formación y certificaciones sugeridas.
+ESCO no registra una habilitación profesional obligatoria para esta ocupación. Para formarse hay el Tecnólogo SENA en Implementación y gestión de bases de datos y el Curso SENA Bases de datos, generalidades y sistemas de gestión.
